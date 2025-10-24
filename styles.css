@@ -54,15 +54,16 @@ li {
     align-items: center;
 }
 
-.remove-btn {
+.removeBtn {
     cursor: pointer;
-    background-color: #ff6347;
-    color: white;
+    background-color: #fc8e11;
+    color: rgb(12, 7, 7);
     border: none;
     border-radius: 4px;
     padding: 5px 10px;
 }
 
-.remove-btn:hover {
-    background-color: #d9534f;
+.removeBtn:hover {
+    background-color: #ecdfde;
+    
 }
